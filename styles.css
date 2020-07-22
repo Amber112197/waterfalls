@@ -1,0 +1,11 @@
+.size{
+    height: 400px;
+}
+#title{
+    text-align: center;
+}
+body{
+    background-color: seagreen;
+    color: white;
+    text-align: center;
+}
